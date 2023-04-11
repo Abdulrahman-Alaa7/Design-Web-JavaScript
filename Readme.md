@@ -1,8 +1,8 @@
 # Design-Web-JavaScript
 
-This project build by using `HTMl5`, `CSS3` and `JaveScript` .(fully responsive)
+This project build by using `HTMl5`, `CSS3` and `JaveScript` . (fully responsive)
 
-## Demo
+## Preview
 ### [Design-Web](https://design-web-js.vercel.app/)
 
 ## In this Website
